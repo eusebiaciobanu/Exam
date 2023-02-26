@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="org.eusebia.features.cart.CartTest" skipped="0" tests="2" time="20.9" timestamp="2023-02-25 08:16:16"><testcase classname="org.eusebia.features.cart.CartTest" name="Check add product to cart"/><testcase classname="org.eusebia.features.cart.CartTest" name="Check cart is empty by default"/></testsuite>

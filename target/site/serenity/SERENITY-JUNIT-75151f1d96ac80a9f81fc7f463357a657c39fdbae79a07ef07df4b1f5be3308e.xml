@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="org.eusebia.features.cart.CartTest" skipped="0" tests="1" time="44.72" timestamp="2023-02-26 05:03:55"><testcase classname="org.eusebia.features.cart.CartTest" name="Check valid coupon"><failure message="The text '12,75 lei' does not match the elements text '10,50 lei'." type="java.lang.AssertionError">The text '12,75 lei' does not match the elements text '10,50 lei'.</failure><system-err>The text '12,75 lei' does not match the elements text '10,50 lei'.
+org.eusebia.pages.CartPage.checkTotal(CartPage.java:107)
+org.eusebia.steps.CartSteps.checkTotal(CartSteps.java:59)
+org.eusebia.features.cart.CartTest.checkValidCoupon(CartTest.java:117)
+</system-err></testcase></testsuite>

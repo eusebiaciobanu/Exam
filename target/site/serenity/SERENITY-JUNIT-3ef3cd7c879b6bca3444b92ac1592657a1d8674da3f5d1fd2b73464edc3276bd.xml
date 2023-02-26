@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="org.eusebia.features.admin.CouponTest" skipped="0" tests="2" time="53.56" timestamp="2023-02-26 05:31:36"><testcase classname="org.eusebia.features.admin.CouponTest" name="Can create coupon"/><testcase classname="org.eusebia.features.admin.CouponTest" name="Can open coupons page"/></testsuite>

@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="org.eusebia.features.admin.AdminLoginTest" skipped="0" tests="1" time="21.28" timestamp="2023-02-26 05:31:15"><testcase classname="org.eusebia.features.admin.AdminLoginTest" name="Valid login with username test"/></testsuite>

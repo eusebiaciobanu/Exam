@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="org.eusebia.features.shop.ChartTest" skipped="0" tests="1" time="9.94" timestamp="2023-02-25 05:15:08"><testcase classname="org.eusebia.features.shop.ChartTest" name="Check chart price is updated on product add to cart"><failure message="The text '15,00 lei' does not match the elements text '0,00 lei'." type="java.lang.AssertionError">The text '15,00 lei' does not match the elements text '0,00 lei'.</failure><system-err>The text '15,00 lei' does not match the elements text '0,00 lei'.
+org.eusebia.pages.ShopPage.chartHasPrice(ShopPage.java:17)
+org.eusebia.steps.ShopSteps.chartHasPrice(ShopSteps.java:14)
+org.eusebia.features.shop.ChartTest.checkChartPriceIsUpdatedOnProductAddToCart(ChartTest.java:21)
+</system-err></testcase></testsuite>

@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="org.eusebia.features.account.LoginTest" skipped="0" tests="1" time="10.53" timestamp="2023-02-23 10:09:07"><testcase classname="org.eusebia.features.account.LoginTest" name="Verify username required field test"/></testsuite>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="org.eusebia.features.account.RegisterTest" skipped="0" tests="1" time="15.85" timestamp="2023-02-23 10:54:20"><testcase classname="org.eusebia.features.account.RegisterTest" name="User is already registered"><error message="Timed out after 2 seconds. Element not found&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'MacBook-Air-Eusebia.local', ip: '2a02:2f0e:3014:6800:35fb:f8ac:a330:b899%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.6', java.version: '19'&#10;Driver info: driver.version: unknown" type="org.openqa.selenium.NoSuchElementException">Timed out after 2 seconds. Element not found
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MacBook-Air-Eusebia.local', ip: '2a02:2f0e:3014:6800:35fb:f8ac:a330:b899%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.6', java.version: '19'
+Driver info: driver.version: unknown</error><system-err>Timed out after 2 seconds. Element not found
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MacBook-Air-Eusebia.local', ip: '2a02:2f0e:3014:6800:35fb:f8ac:a330:b899%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.6', java.version: '19'
+Driver info: driver.version: unknown
+org.eusebia.pages.AccountPage.userIsAlreadyRegistered(AccountPage.java:24)
+org.eusebia.steps.RegisterSteps.userIsAlreadyRegistered(RegisterSteps.java:33)
+org.eusebia.features.account.RegisterTest.userIsAlreadyRegistered(RegisterTest.java:26)
+</system-err></testcase></testsuite>

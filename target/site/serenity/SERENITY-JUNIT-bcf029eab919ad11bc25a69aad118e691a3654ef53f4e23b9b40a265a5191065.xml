@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="org.eusebia.features.shop.CartTest" skipped="0" tests="1" time="12.62" timestamp="2023-02-25 05:51:31"><testcase classname="org.eusebia.features.shop.CartTest" name="Check cart price is decreased when item is removed"/></testsuite>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="org.eusebia.features.cart.CartTest" skipped="0" tests="1" time="17.96" timestamp="2023-02-25 08:22:22"><testcase classname="org.eusebia.features.cart.CartTest" name="Check coupon value is required"><failure message="Expected enabled element was not enabled" type="net.thucydides.core.webdriver.exceptions.ElementShouldBeEnabledException">Expected enabled element was not enabled</failure><system-err>Expected enabled element was not enabled
+org.eusebia.pages.CartPage.applyCoupon(CartPage.java:32)
+org.eusebia.steps.CartSteps.applyCoupon(CartSteps.java:23)
+org.eusebia.features.cart.CartTest.checkCouponValueIsRequired(CartTest.java:29)
+</system-err></testcase></testsuite>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="org.eusebia.features.shop.CartTest" skipped="0" tests="3" time="40.81" timestamp="2023-02-26 05:36:18"><testcase classname="org.eusebia.features.shop.CartTest" name="Check cart price is updated on product add to cart"/><testcase classname="org.eusebia.features.shop.CartTest" name="Check default cart price"/><testcase classname="org.eusebia.features.shop.CartTest" name="Check cart price is decreased when item is removed"><error message="Expected condition failed: waiting for ShopPage.removeFirstProductFromCart to be displayed (tried for 5 second(s) with 100 milliseconds interval)&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'MacBook-Air-Eusebia.local', ip: '2a02:2f0e:407:6200:2419:e8e:da3a:3162%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.6', java.version: '19'&#10;Driver info: driver.version: unknown" type="org.openqa.selenium.NoSuchElementException">Expected condition failed: waiting for ShopPage.removeFirstProductFromCart to be displayed (tried for 5 second(s) with 100 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MacBook-Air-Eusebia.local', ip: '2a02:2f0e:407:6200:2419:e8e:da3a:3162%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.6', java.version: '19'
+Driver info: driver.version: unknown</error><system-err>Expected condition failed: waiting for ShopPage.removeFirstProductFromCart to be displayed (tried for 5 second(s) with 100 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MacBook-Air-Eusebia.local', ip: '2a02:2f0e:407:6200:2419:e8e:da3a:3162%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.6', java.version: '19'
+Driver info: driver.version: unknown
+org.eusebia.pages.ShopPage.clickRemoveFirstProductFromCart(ShopPage.java:52)
+org.eusebia.steps.ShopSteps.removeFirstProductFromCart(ShopSteps.java:33)
+org.eusebia.features.shop.CartTest.checkCartPriceIsDecreasedWhenItemIsRemoved(CartTest.java:34)
+</system-err></testcase></testsuite>
